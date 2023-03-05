@@ -7,7 +7,7 @@ void main() {
 //N.B. The type of the "name" variable is inferred to be "String".
 
 //===================================================================
-// type of s variable can be specified.
+// type of a variable can be specified.
   String last_name = 'Kennedy';
 
   print(first_name + " " + last_name);
